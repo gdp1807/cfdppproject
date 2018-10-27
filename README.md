@@ -10,7 +10,7 @@ IDEA - *Predicting real-time earthquake with integrated wifi calling service.
 
 TECHNOLOGY USED - AZURE BOT SERVICE, Raspberry Pi, AZURE FACE API, AZURE IOT HUB, Visual Studio, Accelerometer sensor, GitHub, Wifi.  
 
-LANGUAGES USED -  Python 3.6, Java
+LANGUAGES USED -  Python 3, Java
 
 DESCRIPTION - 
 		
