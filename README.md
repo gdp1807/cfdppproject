@@ -20,4 +20,4 @@ DESCRIPTION -
 
 BENEFITS OF PROJECT -
 
-	This app predicts and helps in prevention from earthquake. The prediction of earthquakes will be most helpful when earthquakes occur during night time. The wifi calling service will work even in absence of network which commonly occurs during earhquakes. The face recognition service will help in finding out the information about lost ones. 
+	This app analysis and helps in prevention from earthquake. The analysis of earthquakes will be most helpful when earthquakes occur during night time. The wifi calling service will work even in absence of network which commonly occurs during earhquakes. The face recognition service will help in finding out the information about lost ones. 
